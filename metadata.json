@@ -1,0 +1,6 @@
+{
+  "name": "Zwierzogród Mini-Zoo",
+  "description": "Strona internetowa Zwierzogród Mini-Zoo w Jastrzębiu k. Drzycimia – jesienny sezon, karmienie zwierząt, atrakcje i oferta dla szkół.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
